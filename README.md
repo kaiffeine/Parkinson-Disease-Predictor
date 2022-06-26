@@ -1,1 +1,1 @@
-# Parkinson-Disease-Predictor
+# Parkinson-Disease-Detector
